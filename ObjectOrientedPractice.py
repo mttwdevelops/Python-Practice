@@ -5,13 +5,13 @@
 def hello():
     print("Hello")
 
-print(type(hello))  # this returns the type 'function'
+print(type(hello))  # This returns the type 'function'
 
 string = "hello"
-print(string.upper()) # method upper acting on object of type string
+print(string.upper()) # Method upper acting on object of type string
 
 # Now to create our own class
-class Dog:  # blueprint for any type of dog
+class Dog:  # Blueprint for any type of dog
     def __init__(self, name, age):
         self.name = name
         self.age = age
@@ -20,7 +20,7 @@ class Dog:  # blueprint for any type of dog
         return self.name
 
     def get_age(self):
-        self.age = self.age * 13    # just did this to see if I can change age in method
+        self.age = self.age * 13    # Just did this to see if I can change age in method
         return self.age
 
     def bark(self):
@@ -57,9 +57,9 @@ class Course:
     def __init__(self, name, max_students):
         self.name = name
         self.max_students = max_students
-        self.students = []     # notice that we created the attribute students for our list of students and it is empty. This is common and perfectly fine.
+        self.students = []     # Notice that we created the attribute students for our list of students and it is empty. This is common and perfectly fine.
         
-    def add_student(self, student): # student parameter is the Student object that we created earlier
+    def add_student(self, student): # Student parameter is the Student object that we created earlier
         if len(self.students) < self.max_students:
             self.students.append(student)
             return True
@@ -78,11 +78,11 @@ s3 = Student("Jill", 19, 65)
 course = Course("CS101", 2)
 course.add_student(s1)
 course.add_student(s2)
-print(course.students) # this returns "[<__main__.Student object at 0x00000153A27B3C10>, <__main__.Student object at 0x00000153A27B3BB0>]". Let us try to be more specific.
+print(course.students) # This returns "[<__main__.Student object at 0x00000153A27B3C10>, <__main__.Student object at 0x00000153A27B3BB0>]". Let us try to be more specific.
 print(course.students[0].name)
 print(course.get_average_grade())
 
-print(course.add_student(s3)) # notice that since our max capacity is 2, we cannot add s3
+print(course.add_student(s3)) # Notice that since our max capacity is 2, we cannot add s3
 
 
 
@@ -130,15 +130,15 @@ class Dog(Pet):
 p = Pet("Tim", 19)
 p.show()
 c = Cat("Bill", 34)
-c.show()    # Notice how even though we don't put Bill into the Pet class, we can still use the show function. That is because Cat inherits the Pet class.
+c.show()    # Notice how even though we don't put Bill into the Pet class, we can still use the show function. That is because Cat inherits the Pet class along with its functions.
 
 # What about if we want our child classes (Cat and Dog)  to be able to take in specific parameters? Like what if we wanted the color of our cat?
 # Would this mean we would have to rewrite our Pet class? No, we could just rewrite our Cat class.
 
 class Cat(Pet):
-    def __init__(self, name, age, color):   # notice that we initialize by taking in the previous parameters, but we add color as well.
+    def __init__(self, name, age, color):   # Notice that we initialize by taking in the previous parameters, but we add color as well.
         super().__init__(name, age)
-        self.color = color # also notice that we don't reinitialize the name and age parameters. Doing so is not necessary.
+        self.color = color # Also notice that we don't reinitialize the name and age parameters. Doing so is not necessary.
 
     def speak(self):
         print("Meow")
@@ -148,3 +148,57 @@ class Cat(Pet):
 
 c = Cat("Bill", 34, "Brown")
 c.show()
+
+
+
+# Now we will try class specific instances instead of object specific instances
+class Person:
+    number_of_people = 0
+
+    def __init__(self, name):
+        self.name = name
+        
+
+p1 = Person("Tim")
+p2 = Person("Jill")
+
+# number_of_people is class specific, meaning that right now, regardless of p1 or p2, the number_of_people is still 0.
+# We can change that through this way:
+
+Person.number_of_people = 8
+print(p2.number_of_people)
+
+# By adding "Person.number_of_people += 1" in our __init__ function, this increments the number of people by each person we initialize
+
+# But what about if we wanted to do this through a class method? They are a bit different than regular methods
+
+class Person:
+    number_of_people = 0
+
+    def __init__(self, name):
+        self.name = name
+        Person.add_person()
+
+    @classmethod    # This is not specific to an instance, rather it acts on the class itself
+    def number_of_people_(cls):
+        return cls.number_of_people
+
+    @classmethod
+    def add_person(cls):
+        cls.number_of_people += 1
+
+p1 = Person("Tim")
+p2 = Person("Jill")
+print(Person.number_of_people_())
+
+
+
+# Now we have static methods
+class Math:
+    @staticmethod # This mean that this method does not change anything
+    def add5(x):
+        return x + 5
+
+print(Math.add5(5))
+
+# The point of this is to not have to create an instance and all of that (and organization of our code). We can just call the function
