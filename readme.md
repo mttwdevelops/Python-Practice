@@ -4,6 +4,21 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## June 16, 2022
+I recalibrated my learning priorities today, so I don't just code every day without a general direction, which I can do from time to time. I'm looking at my June 10th entry, which talks about what I should work on to become more advanced and I'm thinking on both PIP and file IO since I need to become more familiar with working with different libraries (along with installing them) and file practice. The [Financial Analysis Coursera code](FinancialAnalysisCoursera.py) I did seems to be a good start for that, since I'm reading in the .csv files and also working with Pandas, so I'll keep going with that course. 
+
+I also went to a data science talk today, which was mainly for networking and just curiosity. 
+
+## June 15, 2022
+Uploaded facebook.csv and microsoft.csv for the [Financial Analysis Coursera code](FinancialAnalysisCoursera.py) I was working on. Getting Jupyter notebooks to work and everything was a little tricky for my first time. I figured how to take the 'head' of a table and open the file with the Pandas package, but have not figured mmatplotlib yet. 
+
+I also finished the entirety of course 1 from the Google Data Analystics course. Looking over the rest of the schedule and coursework for the other courses, it's nearly all things I've done before in a school project or professional setting, so I'll keep it on the side if I need something to keep chipping at. Most of the teachings are *really* beginner level, which is what I wasn't looking for. I did like how the course taught me the process that an analyst would work with data and share their conclusions, which matched my experience as an actuary analyst.
+
+On another note, I have been applying to jobs (about 7 so far), and got rejected from my first one already. I think my experience from looking for actuary internships and jobs has numbed me to the "pain" of professional rejection now. Most of the job listings have been for R and SQL / Excel, which I'm pretty comfortable with and have done before at work and my internship. I'm sure I can find a job now if I just set my standards low enough, but I'll keep going to find something that isn't totally wack. 
+
+## June 13, 2022
+I was a bit busy today, but I started and finished weeks 1 and 2 of the [Google Data Analytics course on Coursera](https://grow.google/certificates/data-analytics/). It seems easy enough to do full time, but I skipped a lot of the non-readings and skimmed through the videos since the material isn't non-intuitive (mind the double negative), and I'm familiar with most of it already. Had a lot of other things to take care of, so that's it for today. 
+
 ## June 10, 2022
 Got back into python learning again, along with committing any changes I made just to practice with the terminal. Since I'm comfortable with most intro things like loops, I'll take a step further into object oriented programming, which can be found [here](ObjectOrientedPractice.py).
 
