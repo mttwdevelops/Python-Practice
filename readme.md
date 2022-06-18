@@ -2,7 +2,22 @@ Purpose of this repo is to upload different test files created as I learn Python
 
 Started on June 09, 2022.
 
+Task List:
+- [] Complete Python Developer in 2022 Course
+- [] SQL - MySQL for Data Analytics and Business
+- [] Tableau 2020 A-Z
+
 @mttwdevelops
+
+## June 17, 2022
+I'm having trouble determining what projects to complete or even their scope so to minimize that difficulty I enrolled in some python classes along with a project course to help. I know I do well in an "official" learning environment (or when I feel like I'm in a classroom), so I can manage working in those classes. I've also gone ahead and gotten SQL and Tableau courses too, which I may add to the repository. Here's the current general learning plan:
+
+1. Complete Python Developer in 2022 Course
+2. SQL - MySQL for Data Analytics and Business
+3. Tableau 2020 A-Z
+4. 100 Days of Code (done after the first and during the other courses)
+
+After this, rounding things out with Excel practice should also be good. I feel fine with SQL and Excel since I have working experience with both, but I've already recieved two job rejection emails as of today. Doesn't sting, but I struck much better as an actuary.
 
 ## June 16, 2022
 I recalibrated my learning priorities today, so I don't just code every day without a general direction, which I can do from time to time. I'm looking at my June 10th entry, which talks about what I should work on to become more advanced and I'm thinking on both PIP and file IO since I need to become more familiar with working with different libraries (along with installing them) and file practice. The [Financial Analysis Coursera code](FinancialAnalysisCoursera.py) I did seems to be a good start for that, since I'm reading in the .csv files and also working with Pandas, so I'll keep going with that course. 
