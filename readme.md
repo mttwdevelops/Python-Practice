@@ -3,9 +3,9 @@ Purpose of this repo is to upload different test files created as I learn Python
 Started on June 09, 2022.
 
 Task List:
-- [] Complete Python Developer in 2022 Course
-- [] SQL - MySQL for Data Analytics and Business
-- [] Tableau 2020 A-Z
+- [ ] Complete Python Developer in 2022 Course
+- [ ] SQL - MySQL for Data Analytics and Business
+- [ ] Tableau 2020 A-Z
 
 @mttwdevelops
 
