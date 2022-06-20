@@ -9,6 +9,11 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## June 20, 2020
+Today's focus was on pushing through the Python Developer course's basics sections, which was about 7 hours of videos and readings. I also wrapped up section 2, which was the continuation to the introduction, so in total I have sections 1 - 5 (of a total of 25) done today. 
+
+I also applied to 5 more jobs today, all of which I feel confidently qualified for. Hopefully I can hear back from them.
+
 ## June 17, 2022
 I'm having trouble determining what projects to complete or even their scope so to minimize that difficulty I enrolled in some python classes along with a project course to help. I know I do well in an "official" learning environment (or when I feel like I'm in a classroom), so I can manage working in those classes. I've also gone ahead and gotten SQL and Tableau courses too, which I may add to the repository. Here's the current general learning plan:
 
