@@ -22,7 +22,9 @@ Here's a review of what I covered today:
         - Sets (lists that tend to have only unique entries)
 2. Logic and conditionals (the beginning of section 4, which covers more advanced basics)
 
-I also applied to 6 more jobs today, all of which I am confidently qualified for. Hopefully I can hear back from them.
+I also applied to 6 more jobs today, all of which I am confidently qualified for. They're all for data analyst positions, which coincidentally have nearly identical job descriptions and requirements. Hopefully I can hear back from them. 
+
+I'm also going to be trying out more linux distributions, either arch or other gnome distributions (currently on ubuntu). 
 
 ## June 17, 2022
 I'm having trouble determining what projects to complete or even their scope so to minimize that difficulty I enrolled in some python classes along with a project course to help. I know I do well in an "official" learning environment (or when I feel like I'm in a classroom), so I can manage working in those classes. I've also gone ahead and gotten SQL and Tableau courses too, which I may add to the repository. Here's the current general learning plan:
