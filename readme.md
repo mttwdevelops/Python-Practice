@@ -9,6 +9,16 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## June 22, 2022
+I finished section 4 of the Developer course, which focused on more advanced basics such as loops, function, *args and **kwargs, among other things. It took about four hours, but I'm now complete with sections 1-5 and am now over a third done with the course, albeit I'm familiar with most of the content so far. 
+
+Some cool things I wasn't as aware about include:
+1. docustrings (including ''' ''' when defining functions as documentation)
+2. *args and **kwargs for when you are not sure how many arguments you throw into your parameters
+3. local vs nonlocal and global 
+
+I also now have an interview with a health insurance company for a systems analyst job tomorrow, so maybe I'll land an offer sooner than I expected. As far as I can tell from the listing, it doesn't seem like I'll use programming a whole lot compared to Excel, but with how I think certain things in the economy are going, having a decently-paying job to bolster my savings is not looking like a bad idea. Just hope this goes well.
+
 ## June 21, 2022
 I started my 100 Days of Python Projects course, and completed the exercises until day 3. They just about covered most of what I have learned in the Zero to Mastery course, so I'll work on both courses in tandem (instead of finishing the Zero to Master course and then working on the project course). Most of the code done in the project course was simple variable declaration, so I didn't bother saving it in the repository, rather it was done on [an online Python editor](https://www.online-python.com/). I did create a new [repository](https://github.com/mttwdevelops/100-Days-of-Code) for the first day project of the course, and the code for that project can be found [here](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/BandNameGenerator.py). I also completed the second day, which can be found [here](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/TipCalculatory.py).
 
