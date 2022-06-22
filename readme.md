@@ -9,7 +9,10 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
-## June 20, 2020
+## June 21, 2022
+I started my 100 Days of Python Projects course, and completed the exercises until day 3. They just about covered most of what I have learned in the Zero to Mastery course, so I'll work on both courses in tandem. Most of the code done in the project course was simple variable declaration, so I didn't bother saving it in the repository, rather it was done on [an online Python editor](https://www.online-python.com/). I did create a new [repository](https://github.com/mttwdevelops/100-Days-of-Code) for the first day project of the course, and the code for that project can be found [here](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/BandNameGenerator.py). 
+
+## June 20, 2022
 Today's focus was on pushing through the Python Developer course's first basics section, which was about 4 hours of videos and readings. I also wrapped up section 2, which was the continuation to the introduction, so in total I have sections 1 - 3 and 5 (of a total of 25) done today. 
 
 Here's a review of what I covered today:
