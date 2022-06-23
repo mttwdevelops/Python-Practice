@@ -11,7 +11,9 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## June 23, 2022
-I spent today's morning to early afternoon preparing for my interview since this is my first time interviewing in a while, and it's for a non-actuary role. I will be working with actuaries since it's for a life insurance position, so I definitely have a foot in the door with experience, but I'm not going to jinx it. Besides that, I continued with another day of the project course.
+I spent today's morning to early afternoon preparing for my interview since this is my first time interviewing in a while, and it's for a non-actuary role. I will be working with actuaries since it's for a life insurance position, so I definitely have a foot in the door with experience, but I'm not going to jinx it. 
+
+Besides that, I continued with another day of the project course, this time completing day 3's [project](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/TreasureIsland.py). I also added project purposes and "scopes" to the other days' projects, which are to show what new skills a program I wrote focuses on.
 
 ## June 22, 2022
 I finished section 4 of the Developer course, which focused on more advanced basics such as loops, function, *args and **kwargs, among other things. It took about four hours, but I'm now complete with sections 1-5 and am now over a third done with the course, albeit I'm familiar with most of the content so far. 
