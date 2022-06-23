@@ -13,6 +13,8 @@ Started on June 09, 2022.
 ## June 23, 2022
 I spent today's morning to early afternoon preparing for my interview since this is my first time interviewing in a while, and it's for a non-actuary role. I will be working with actuaries since it's for a life insurance position, so I definitely have a foot in the door with experience, but I'm not going to jinx it. 
 
+Update: So I just had the interview and I thought it went alright. I was a little bit jittery around some responses, but the interviewer mentioned I should be hearing back by early next week so it doesn't seem bad. Salary was a bit low, but given that it is an entry level, I'm not entirely against taking a little bit of a salary hit if it means I can get the necessary experience, but I'm not setting my standards that low to work for a ridiculously bad salary. Besides that, I'll just keep applying.
+
 Besides that, I continued with another day of the project course, this time completing day 3's [project](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/TreasureIsland.py). I also added project purposes and "scopes" to the other days' projects, which are to show what new skills a program I wrote focuses on.
 
 ## June 22, 2022
