@@ -10,6 +10,11 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## June 28, 2022
+Today I continued with both courses, first starting with the project course to complete days four, five, and six's projects. They covered mostly the random library, loops, and function declaration, so it wasn't difficult to complete. I then finished the object oriented programming lectures from the ZtM course, finishing section six. 
+
+I also applied to two more analyst jobs, both of which had pretty vague job requirements but long job requirements. 
+
 ## June 27, 2022
 Job update: I had a second (and more than likely last round) interview this morning at the same company as June 23's entry, this time speaking to the hiring manager. They emphasized the lack of data analytics and more communciations in the role, which I don't mind, but my endgame is still further than just data communication and checking excel spreadsheets.
 
