@@ -11,9 +11,13 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## June 27, 2022
-Job update: I had a second (and more than likely last round) interview this morning at the same company as June 23's entry, this time speaking to the hiring manager. They emphasized the lack of data analytics and more communciations in the role, which I don't mind, but my endgame is still further than just data communication and checking excel spreadsheets 
+Job update: I had a second (and more than likely last round) interview this morning at the same company as June 23's entry, this time speaking to the hiring manager. They emphasized the lack of data analytics and more communciations in the role, which I don't mind, but my endgame is still further than just data communication and checking excel spreadsheets.
 
 I also put some time this weekend to think not only about jobs, but also what I actually want to contribute towards in the grand scheme of my life. I don't want to just be an analyst or scientist; I was also thinking about computer hardware and software security, particularly encryption. 
+
+I also continued watching more zero to mastery lectures and am currently working on object oriented programming within Python. The current lectures overlap and review a lot of material from the video I mentioned in [this practice file](ObjectOrientedPractice.py), but refreshing and reviewing is important. I made updates at the bottom of the file with more practice from the lectures.
+
+I finished section 12 and 16 as well, which goes over debugging and different career aspects. These lectures do help with figuring out more projects I can work on as I continue, and I like the idea of creating other blog posts for different technologies and projects I find interesting. 
 
 ## June 23, 2022
 I spent today's morning to early afternoon preparing for my interview since this is my first time interviewing in a while, and it's for a non-actuary role. I will be working with actuaries since it's for a life insurance position, so I definitely have a foot in the door with experience, but I'm not going to jinx it. 
