@@ -11,9 +11,36 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## June 28, 2022
-Today I continued with both courses, first starting with the project course to complete days four, five, and six's projects. They covered mostly the random library, loops, and function declaration, so it wasn't difficult to complete. I then finished the object oriented programming lectures from the ZtM course, finishing section six. 
+Job update: I also applied to two more analyst jobs, both of which had pretty vague job requirements but long job requirements. As it would turn out, the second round interview I had yesterday wasn't the last, and they want me to talk to four more people (other directors, actuaries, and data engineers). How fun!
 
-I also applied to two more analyst jobs, both of which had pretty vague job requirements but long job requirements. 
+Today I continued with both courses, first starting with the project course to complete days [four](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/RockPaperScissors.py), [five](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/PasswordGenerator.py), and [six's](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) projects. 
+
+Since day six's project is through a website, the solution code for that is:
+```
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
+```
+This solves a maze, and I think it's pretty efficiently written. The projects covered the random library, loops, and function declaration, so it wasn't difficult to complete. 
+
+I then finished the object oriented programming lectures from the ZtM course, finishing section six. It covered a bit more on:
+1. **Inheritance** allows objects to inherit their parent object features
+2. **Abstraction** is meant to hide things from the user, like how I don't need to know how the len() function is coded, I just use it
+3. **Encapsulation** packages functions and data that work together into a single object
+4. **Private vs Public Variables**
+5. **Polymorphism** allows for different objects to use the "same" methods for different purposes
+6. **Object Introspection** gives the type of an object at runtime
+7. **Dunder methods** are short for "Double underscore" methods and are special methods that can also be declared in a class in order to be altered for whatever reason
 
 ## June 27, 2022
 Job update: I had a second (and more than likely last round) interview this morning at the same company as June 23's entry, this time speaking to the hiring manager. They emphasized the lack of data analytics and more communciations in the role, which I don't mind, but my endgame is still further than just data communication and checking excel spreadsheets.
@@ -25,9 +52,9 @@ I also continued watching more zero to mastery lectures and am currently working
 I finished section 12 and 16 as well, which goes over debugging and different career aspects. These lectures do help with figuring out more projects I can work on as I continue, and I like the idea of creating other blog posts for different technologies and projects I find interesting. 
 
 ## June 23, 2022
-I spent today's morning to early afternoon preparing for my interview since this is my first time interviewing in a while, and it's for a non-actuary role. I will be working with actuaries since it's for a life insurance position, so I definitely have a foot in the door with experience, but I'm not going to jinx it. 
-
 Job update: So I just had the interview and I thought it went alright. I was a little bit jittery around some responses, but the interviewer mentioned I should be hearing back by early next week so it doesn't seem bad. Salary was a bit low, but given that it is an entry level, I'm not entirely against taking a little bit of a salary hit if it means I can get the necessary experience, but I'm not setting my standards that low to work for a ridiculously bad salary. Besides that, I'll just keep applying.
+
+I spent today's morning to early afternoon preparing for my interview since this is my first time interviewing in a while, and it's for a non-actuary role. I will be working with actuaries since it's for a life insurance position, so I definitely have a foot in the door with experience, but I'm not going to jinx it. 
 
 Besides that, I continued with another day of the project course, this time completing day 3's [project](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/TreasureIsland.py). I also added project purposes and "scopes" to the other days' projects, which are to show what new skills a program I wrote focuses on.
 
@@ -35,9 +62,9 @@ Besides that, I continued with another day of the project course, this time comp
 I finished section 4 of the Developer course, which focused on more advanced basics such as loops, function, *args and **kwargs, among other things. It took about four hours, but I'm now complete with sections 1-5 and am now over a third done with the course, albeit I'm familiar with most of the content so far. 
 
 Some cool things I wasn't as aware about include:
-1. docustrings (including ''' ''' when defining functions as documentation)
-2. *args and **kwargs for when you are not sure how many arguments you throw into your parameters
-3. local vs nonlocal and global 
+1. **docustrings** (including ''' ''' when defining functions as documentation)
+2. ***args and **kwargs**** for when you are not sure how many arguments you throw into your parameters
+3. **local vs nonlocal** and **global variables**
 
 I also now have an interview with a health insurance company for a systems analyst job tomorrow, so maybe I'll land an offer sooner than I expected. As far as I can tell from the listing, it doesn't seem like I'll use programming a whole lot compared to Excel, but with how I think certain things in the economy are going, having a decently-paying job to bolster my savings is not looking like a bad idea. Just hope this goes well.
 
