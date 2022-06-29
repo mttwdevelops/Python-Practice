@@ -10,6 +10,11 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## June 29, 2022
+Today's focus is to knock out more projects from the 100 Days of Python Projects course until the project material matches what I'm learning from ZtM's course. Because of this, I need to keep working on projects up to day 16's project, where the course finally covers OOP.
+
+I finished day [seven's](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Hangman_Day_7.py) project, which took a bit longer since I was having a conditional issue that was fixed by going line by line and figuring out how the computer was interpreting my logic. The issue was for the lives deduction code if you guessed a letter wrong (for the game hangman), but I just needed to move the conditional outside a for loop to prevent too many lives from being deducted.
+
 ## June 28, 2022
 Job update: I also applied to two more analyst jobs, both of which had pretty vague job requirements but long job requirements. As it would turn out, the second round interview I had yesterday wasn't the last, and they want me to talk to four more people (other directors, actuaries, and data engineers). How fun!
 
