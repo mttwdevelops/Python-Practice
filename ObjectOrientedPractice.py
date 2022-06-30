@@ -1,6 +1,13 @@
 # This is to practice object oriented programming in Python
 # Source of practice video is: https://www.youtube.com/watch?v=JeznW_7DlB0
 # June 10, 2022
+# June 27, 2022 (Code left at bottom)
+# June 28, 2022
+
+from audioop import reverse
+from nis import cat
+import pdb
+
 
 def hello():
     print("Hello")
@@ -202,3 +209,97 @@ class Math:
 print(Math.add5(5))
 
 # The point of this is to not have to create an instance and all of that (and organization of our code). We can just call the function
+
+
+
+# June 27th code:
+class PlayerCharacter:
+    membership = True # This is a CLASS OBJECT ATTRIBUTE. WE USE THIS WHEN A PARTICULAR ATTRIBUTE IS STATIC, OR DOES NOT CHANGE
+    def __init__(self, name):   # Remember these are attributes, WHICH CHAN CHANGE BASED OFF OF OBJECTS
+        self.name = name
+
+    def run(self):
+        print('run')
+
+    def shout(self):
+        print(f'my name is {self.name}')
+
+player1 = PlayerCharacter('Cindy')
+print(player1.name)
+
+# Exercise: Cat
+class Cat:
+    species = 'mammal'
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+cat1 = Cat('tommy', 1)
+cat2 = Cat('janna', 7)
+cat3 = Cat('dazzy', 3)
+
+def oldest_cat():
+    thisdict = {cat1.name:cat1.age, cat2.name:cat2.age, cat3.name:cat3.age}
+    for key, value in thisdict.items():
+        if value == max(thisdict.values()):
+            return key, value
+oldest_cat_name, oldest_cat_age = oldest_cat()
+print(f"Name of the oldest cat is {oldest_cat_name}. Its age is {oldest_cat_age}.")
+
+# June 28th code:
+class Pets():
+    animals = []
+    def __init__(self, animals):
+        self.animals = animals
+
+    def walk(self):
+        for animal in self.animals:
+            print(animal.walk())
+
+class Cat():
+    is_lazy = True
+
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def walk(self):
+        return f'{self.name} is just walking around'
+
+class Simon(Cat):
+    def sing(self, sounds):
+        return f'{sounds}'
+
+class Sally(Cat):
+    def sing(self, sounds):
+        return f'{sounds}'
+
+#1 Add nother Cat
+class Jonesy(Cat):
+    def sing(self, sounds):
+        return f'{sounds}'
+
+#2 Create a list of all of the pets (create 3 cat instances from the above)
+my_cats = []
+cat1 = Cat("Josh", 5)
+cat2 = Cat("Michael", 5)
+cat3 = Cat("James", 5)
+my_cats = [cat1, cat2, cat3]
+
+#3 Instantiate the Pet class with all your cats use variable my_pets
+my_pets = Pets(my_cats)
+
+#4 Output all of the cats walking using the my_pets instance
+print(my_pets.walk())
+
+
+class SuperList(list):
+    def __len__(self):
+        return 1000
+
+
+super_list1 = SuperList()
+print(len(super_list1))
+super_list1.append(5) 
+print(super_list1[0])
+print(issubclass(list, object))
