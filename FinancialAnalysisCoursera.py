@@ -13,6 +13,8 @@ print(fb.head())
 # we can slice dataframe by either label (.loc) or by position (.iloc)
 print(fb.loc['2022-01-01':'2022-12-31', 'Close'])
 
+# fb.loc['2022-01-01':'2022-12-31', 'Close'].plot()
+fb['Close'].plot()
 x = fb.loc['2022-01-01':'2022-12-31', 'Close']
 print("hello world")
 plt.plot(x)
