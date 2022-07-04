@@ -13,7 +13,7 @@ Started on June 09, 2022.
 ## July 4th, 2022
 I took a bit of a break last Friday since I bought tickets to a convention and didn't realize it came up so quickly, so I went during the weekend.
 
-Today's focus is to get back into the swing of things by doing some review of previous code, specifically the object oriented programming and the past few projects I completed, especially after taking three days off. I also completed days 8 and 9 of the project course, the files can be found here.
+Today's focus is to get back into the swing of things by doing some review of previous code, specifically the object oriented programming and the past few projects I completed, especially after taking three days off. I also completed day [eight](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/CaesarCipher_Day_8.py) for the project course.
 
 No update yet from my final round, but that make sense since today is the fourth, which most companies take off.
 
