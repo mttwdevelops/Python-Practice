@@ -10,10 +10,19 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 4th, 2022
+I took a bit of a break last Friday since I bought tickets to a convention and didn't realize it came up so quickly, so I went during the weekend.
+
+Today's focus is to get back into the swing of things by doing some review of previous code, specifically the object oriented programming and the past few projects I completed, especially after taking three days off. I also completed days 8 and 9 of the project course, the files can be found here.
+
+No update yet from my final round, but that make sense since today is the fourth, which most companies take off.
+
 ## June 29, 2022
 Today's focus is to knock out more projects from the 100 Days of Python Projects course until the project material matches what I'm learning from ZtM's course. Because of this, I need to keep working on projects up to day 16's project, where the course finally covers OOP.
 
 I finished day [seven's](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Hangman_Day_7.py) project, which took a bit longer since I was having a conditional issue that was fixed by going line by line and figuring out how the computer was interpreting my logic. The issue was for the lives deduction code if you guessed a letter wrong (for the game hangman), but I just needed to move the conditional outside a for loop to prevent too many lives from being deducted.
+
+I also spent some time today preparing for my three-round third interview, which is most likely a social talk rather than hardcore technical questions. I'm not stressed, and I think I'll be alright, I see this more as a "does the team like me as a person" rather than a "let's figure out if he's a coding genius."
 
 ## June 28, 2022
 Job update: I also applied to two more analyst jobs, both of which had pretty vague job requirements but long job requirements. As it would turn out, the second round interview I had yesterday wasn't the last, and they want me to talk to four more people (other directors, actuaries, and data engineers). How fun!
