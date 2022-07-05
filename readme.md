@@ -10,6 +10,9 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 5th, 2022
+I wrapped up day [nine's](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/BlindAuction_Day_9.py) project, which covered dictionaries and how to modify and pull specific elements (its max value). I also completed day [ten](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Calculator_Day_10.py), which was a calculator that involved dictionaries, recursion, and while loop flags (to allow a program to continue to run while a certain condition remains true).
+
 ## July 4th, 2022
 I took a bit of a break last Friday since I bought tickets to a convention and didn't realize it came up so quickly, so I went during the weekend.
 
