@@ -96,7 +96,7 @@ Here's a review of what I covered today:
     - Data types include:
         - Lists (lots of different methods that can be applied)
         - Matrices (examples are lists within lists and their indexes)
-        - Dictionaries (keys are immtable but have a wide range of different values they can take)
+        - Dictionaries (keys are immutable but have a wide range of different values they can take)
         - Tuples (more efficient lists that are immutable)
         - Sets (lists that tend to have only unique entries)
 2. Logic and conditionals (the beginning of section 4, which covers more advanced basics)
