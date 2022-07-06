@@ -10,10 +10,13 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
-## July 5th, 2022
+## July 6, 2022
+I continued working on the Blackjack simulator, but still hit bug after bug. I took a break and began working on day [thirteen](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Debugging_Day_13.py), which is all about debugging practice. It helped a lot with some debugging tips such as print statements, running code after writing it bit by bit rather than writing a bunch of lines only to have a hive of bugs, and visualizing my code through either online editors or through my editor.
+
+## July 5, 2022
 I wrapped up day [nine's](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/BlindAuction_Day_9.py) project, which covered dictionaries and how to modify and pull specific elements (its max value). I also completed day [ten](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Calculator_Day_10.py), which was a calculator that involved dictionaries, recursion, and while loop flags (to allow a program to continue to run while a certain condition remains true). I also started day [eleven's](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Blackjack_Day_11.py) project, which is a command line version of the game Blackjack. I created functions that check both the user and computer's hands, and also set up basic if-statements for whether the user or computer won a specific hand. 
 
-## July 4th, 2022
+## July 4, 2022
 I took a bit of a break last Friday since I bought tickets to a convention and didn't realize it came up so quickly, so I went during the weekend.
 
 Today's focus is to get back into the swing of things by doing some review of previous code, specifically the object oriented programming and the past few projects I completed, especially after taking three days off. I also completed day [eight](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/CaesarCipher_Day_8.py) for the project course.
@@ -146,7 +149,7 @@ I then watched [this](https://www.youtube.com/watch?v=p15xzjzR9j0) video, so I'd
 7. PIP
 8. Splitting code into modules
 
-## June 09, 2022
+## June 9, 2022
 Just focusing on learning git today. Got setup with vscode and how to incorporate git so I can push updates instead of uploading the files themselves like a caveman. On another note, it feels good to be learning again, and on things I find interesting. Here are some important commands in case I forget:
 
 ```
