@@ -10,6 +10,9 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 7, 2022
+Finally finished the [Blackack simulator](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Blackjack_Day_11.py) and also completed day [twelve](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/GuessNumber_Day_12.py), which is a number guessing game that works on declaring functions. I also started working on the last beginner project, which is for day [fourteen](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/HigherLower_Day_14.py).
+
 ## July 6, 2022
 I continued working on the Blackjack simulator, but still hit bug after bug. I took a break and began working on day [thirteen](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Debugging_Day_13.py), which is all about debugging practice. It helped a lot with some debugging tips such as print statements, running code after writing it bit by bit rather than writing a bunch of lines only to have a hive of bugs, and visualizing my code through either online editors or through my editor.
 
