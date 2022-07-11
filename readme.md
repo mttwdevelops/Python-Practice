@@ -10,6 +10,9 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 8, 2022
+I completed day [fourteen](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/HigherLower_Day_14.py) and have moved on to the OOP (and intermediate) portion of the online course. At this point, I feel my programming is coming along and I'm more comfortable in Python, and I need to keep up with my R now to make sure I don't lose it. I'm also thinking of jumping around in the course to find interesting topics and working on those instead of just going sequentially, this will help keep interest while also making sure I learn more interesting topics. 
+
 ## July 7, 2022
 Finally finished the [Blackack simulator](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/Blackjack_Day_11.py) and also completed day [twelve](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/GuessNumber_Day_12.py), which is a number guessing game that works on declaring functions. I also started working on the last beginner project, which is for day [fourteen](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/HigherLower_Day_14.py).
 
