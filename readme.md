@@ -10,6 +10,9 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 11, 2022
+I completed day [twenty four](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/Mail%20Merge%20Project) of the projects course, which focused on the file directory and path. This one was a bit more difficult, and I did make a jump in content from day fifteen/sixteen to twenty four, which means I skipped content. This challenge was interesting, and I'll be sure to revisit it.
+
 ## July 8, 2022
 I completed day [fourteen](https://github.com/mttwdevelops/100-Days-of-Code/blob/master/HigherLower_Day_14.py) and have moved on to the OOP (and intermediate) portion of the online course. At this point, I feel my programming is coming along and I'm more comfortable in Python, and I need to keep up with my R now to make sure I don't lose it. I'm also thinking of jumping around in the course to find interesting topics and working on those instead of just going sequentially, this will help keep interest while also making sure I learn more interesting topics. 
 
