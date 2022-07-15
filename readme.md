@@ -11,10 +11,10 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## July 15, 2022
-I spent today reviewing the code for the past week, mainly the file IO from project day 24, 14, and decorators.
+I spent today reviewing the code for the past week, mainly the file IO from project day 24, 14, and decorators. I finished section seven and eleven from ZtM, which focuses on functional programming (opposite of OOP) and modules respectively.
 
 I also covered:
-1. **Lambda functions** are one-time, anonymous functions that can replace longer for loops.
+1. **Lambda functions** are one-time, anonymous functions that can replace longer for loops or functions. They can also be used in list, set, and dictionary comprehension for the same reasons.
 
 I also began to review my previous R projects and am drafting up a new linear regression project. I'm looking at [UCI's machine learning repository](https://archive.ics.uci.edu/ml/index.php) and [Kaggle](https://www.kaggle.com/) for datasets. I'm also looking at [Ken Jee](https://www.kaggle.com/kenjee)'s portfolio and will try his datasets and code files to see how a professional documents and models.
 
