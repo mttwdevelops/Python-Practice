@@ -15,7 +15,8 @@ my_numbers = [5,4,3,2,1]
 
 my_numbers = sorted(my_numbers)
 print(my_numbers)
-print(list(zip(my_strings, my_numbers)))
+# print(list(zip(my_strings, my_numbers)))
+print(list(zip(my_strings, sorted(my_numbers))))
 
 
 
