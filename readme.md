@@ -11,7 +11,7 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## July 14, 2022
-I continued on the ZtM course, 
+I continued on the ZtM course, and finished the section on [decorators](https://github.com/mttwdevelops/Practice-Files/blob/master/Decorators_Exercise.py) and on [map, filter, and reduce functions](https://github.com/mttwdevelops/Practice-Files/blob/master/MapFilterReducePractice.py). 
 
 ## July 13, 2022
 I have spent the past bit more on the project course, but since I have moved on from OOP from the project course I should delve much further into specific topics that I want to cover or think are interesting rather than just keep laying other topics which I *may* use instead of want to, doing so would kill my drive to continue practicing. In that spirit, I watched the lectures on contributing to open source and a bit more on git, which offered a nice refresher and showed me ways to solve merge conflicts. I also covered more file IO videos. I am now little over the halfway mark in total content completion for the ZtM course. Another thing that is mentioned is the 'why' I do what I do, and while I know that I should be asking myself these questions, it's good to remind myself since I can also forget. Everything I do should be for the bigger picture of my life and making the time I have left meaningful rather than just leaving an impact anywhere without any direction.
