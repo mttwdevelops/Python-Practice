@@ -10,6 +10,11 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 15, 2022
+I spent today reviewing the code for the past week, mainly the file IO from project day 24, 14, and decorators.
+
+I also began to review my previous R projects and am drafting up a new linear regression project. I'm looking at [UCI's machine learning repository](https://archive.ics.uci.edu/ml/index.php) and [Kaggle](https://www.kaggle.com/) for datasets. I'm also looking at [Ken Jee](https://www.kaggle.com/kenjee)'s portfolio and will try his datasets and code files to see how a professional documents and models.
+
 ## July 14, 2022
 I continued on the ZtM course, and finished the section on [decorators](https://github.com/mttwdevelops/Practice-Files/blob/master/Decorators_Exercise.py) and on [map, filter, and reduce functions](https://github.com/mttwdevelops/Practice-Files/blob/master/MapFilterReducePractice.py). 
 
