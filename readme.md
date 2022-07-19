@@ -11,7 +11,9 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## July 19, 2022
-I continued with section seventeen of the ZtM course, specifically focusing on PDFs and sending automated emails. I also completed day 25 of the project course, which focused on CSV data and the Pandas library, which is commonly used in data science work.
+I continued with section seventeen of the ZtM course, specifically focusing on PDFs and sending automated emails. The library used for the PDF automation is [PyPDF2](https://pypdf2.readthedocs.io/en/latest/index.html), and the code I worked on is merging PDFs and also adding a [watermark](https://pypdf2.readthedocs.io/en/latest/user/add-watermark.html#watermark-underlay); the folder can be found [here](https://github.com/mttwdevelops/Practice-Files/tree/master/pdf-playground). The automated email process was not working since Google authentication was being a pain, but here is the [file](https://github.com/mttwdevelops/Practice-Files/blob/master/email-playground/email_sender.py).
+
+I also completed day 25 of the project course, which focused on CSV data and the Pandas library, which is commonly used in data science work.
 
 ## July 18, 2022
 I began today with reviewing my work in file IO, lambda functions, and decorators. I then finished half of section seventeen of the ZtM course, which puts me at about 70% completion. Section seventeen focuses on scripting, which is something I needed to learn, as scripting has many different applications like PDF scraping, bot writing, and automated messages. My first program with scripting is converting .jpg to .png files. The folder to that project is [here](https://github.com/mttwdevelops/Practice-Files/tree/master/images-playground).
