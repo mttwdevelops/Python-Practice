@@ -10,6 +10,11 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 18, 2022
+I began today with reviewing my work in file IO, lambda functions, and decorators. I then wrapped up sections fourteen and fifteen of the ZtM course, which puts me at about 75% completion. I also completed day 25 of the project course, which focused on CSV data and the Pandas library, which is commonly used in data science work.
+
+I had also begun working around with Jupyter notebooks, how they work, and their formatting.
+
 ## July 15, 2022
 I spent today reviewing the code for the past week, mainly the file IO from project day 24, 14, and decorators. I finished section seven and eleven from ZtM, which focuses on functional programming (opposite of OOP) and modules respectively.
 
