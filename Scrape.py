@@ -3,7 +3,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-res = requests.get('https://news.ycombinator.com/')
+res = requests.get('https://news.ycombinator.com/news')
 # print(res)  # if value is 200, then everything is fine.
 # print(res.text) # gives the html of the website
 soup = BeautifulSoup(res.text, 'html.parser')
@@ -19,8 +19,11 @@ def create_custom_hn(links, votes):
     for idx, item in enumerate(links):
         title = links[idx].getText()
         href = links[idx].get('href', None)
-        hn.append(title)
+        points = int(votes[idx].getText().replace(' points', ''))
+        print(points)
+        hn.append({'title': title, 'link': href})
     return hn
 
-print(create_custom_hn(links, votes))
-print(links)
+# print(create_custom_hn(links, votes))
+# print(links)
+create_custom_hn(links, votes)
