@@ -10,8 +10,11 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 19, 2022
+I continued with section seventeen of the ZtM course, specifically focusing on PDFs and sending automated emails. I also completed day 25 of the project course, which focused on CSV data and the Pandas library, which is commonly used in data science work.
+
 ## July 18, 2022
-I began today with reviewing my work in file IO, lambda functions, and decorators. I then wrapped up section seventeen of the ZtM course, which puts me at about 75% completion. Section seventeen focuses on scripting, which is something I needed to learn, as scripting has many different applications like PDF scraping, bot writing, and automated messages. I also completed day 25 of the project course, which focused on CSV data and the Pandas library, which is commonly used in data science work.
+I began today with reviewing my work in file IO, lambda functions, and decorators. I then finished half of section seventeen of the ZtM course, which puts me at about 70% completion. Section seventeen focuses on scripting, which is something I needed to learn, as scripting has many different applications like PDF scraping, bot writing, and automated messages. 
 
 I had also begun working around with Jupyter notebooks, how they work, and their formatting. My [test notebook](https://github.com/mttwdevelops/Practice-Files/blob/master/TestNotebook.ipynb) tried basic syntax, along with matplotlib graphing for the [facebook csv](https://github.com/mttwdevelops/Practice-Files/blob/master/facebook.csv) I kept from the financial analysis course.
 
