@@ -10,20 +10,22 @@ soup = BeautifulSoup(res.text, 'html.parser')
 # print(soup.select('.score'))
 
 links = soup.select('.storylink') # gets the newstitles since the titles are under the 'storylink' class
-votes = soup.select('.score') # gets the number of upvotes. 
+subtext = soup.select('.subtext') # gets the number of upvotes. 
 
 # Since the two above provide a list of all the different entries, we can use [0] to get the first index.
 
-def create_custom_hn(links, votes):
+def create_custom_hn(links, subtext):
     hn = []
     for idx, item in enumerate(links):
         title = links[idx].getText()
         href = links[idx].get('href', None)
-        points = int(votes[idx].getText().replace(' points', ''))
-        print(points)
+        vote = subtext[idx].select('.score')
+        if len(vote):
+            points = int(vote[0].getText().replace(' points', ''))
+            print(points)
         hn.append({'title': title, 'link': href})
     return hn
 
 # print(create_custom_hn(links, votes))
 # print(links)
-create_custom_hn(links, votes)
+create_custom_hn(links, subtext)
