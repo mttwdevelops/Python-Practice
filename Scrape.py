@@ -9,9 +9,9 @@ res = requests.get('https://news.ycombinator.com/news')
 soup = BeautifulSoup(res.text, 'html.parser')
 # print(soup.select('.score'))
 
-links = soup.select('.storylink') # gets the newstitles since the titles are under the 'storylink' class
+links = soup.select('.titlelink') # gets the newstitles since the titles are under the 'titlelink' class
 subtext = soup.select('.subtext') # gets the number of upvotes. 
-
+# print(soup)
 # Since the two above provide a list of all the different entries, we can use [0] to get the first index.
 
 def create_custom_hn(links, subtext):
@@ -26,6 +26,6 @@ def create_custom_hn(links, subtext):
         hn.append({'title': title, 'link': href})
     return hn
 
-# print(create_custom_hn(links, votes))
+# print(create_custom_hn(links, subtext))
 # print(links)
 create_custom_hn(links, subtext)
