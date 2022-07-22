@@ -1,7 +1,7 @@
 Purpose of this repo is to upload different test files created as I learn Python and other languages. I also keep a daily log (on days I do something) here and will track any further progress on both learning and towards getting a job.
 
 Task List:
-- [ ] Complete Python Developer in 2022: Zero to Mastery
+- [X] Complete Python Developer in 2022: Zero to Mastery
 - [ ] 100 Days of Python Projects
 - [ ] SQL - MySQL for Data Analytics and Business
 - [ ] Tableau 2020 A-Z
@@ -9,6 +9,9 @@ Task List:
 Started on June 09, 2022.
 
 @mttwdevelops
+
+## July 22, 2022
+I wrapped up the machine learning section and finished the ZtM course, the files for the ML practice can be found [here](https://github.com/mttwdevelops/Practice-Files/tree/master/MachineLearningPractice). I am also starting the SQL course now, I'm thinking it'll take a week or two to finish completely.
 
 ## July 21, 2022
 I finished and uploaded a regression analysis project in R, which can be found [here](https://github.com/mttwdevelops/Regression-Analysis-Boston-Historic-Housing-Prices). This focuses on data collected from Boston neighborhoods in 1970, and while the [original paper](https://www.researchgate.net/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air) the data was used for measured median home values based off of air quality, I focused on what specific variables are signficant in the data and built a forward regression model. I also updated my resume, deleting the actuarial exam portion and focusing more on work experience and projects, like the regression model I just uploaded. More goodies to come!
