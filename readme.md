@@ -10,6 +10,9 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 21, 2022
+I finished and uploaded a regression analysis project in R, which can be found [here](https://github.com/mttwdevelops/Regression-Analysis-Boston-Historic-Housing-Prices). This focuses on data collected from Boston neighborhoods in 1970, and while the [original paper](https://www.researchgate.net/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air) the data was used for measured median home values based off of air quality, I focused on what specific variables are signficant in the data and built a forward regression model. I also updated my resume, deleting the actuarial exam portion and focusing more on work experience and projects, like the regression model I just uploaded. More goodies to come!
+
 ## July 20, 2022
 I was having issues with yesterday's [Scrape.py](https://github.com/mttwdevelops/Practice-Files/blob/master/Scape.py) file, as it would turn out, I was using 'storylink' rather than 'titlelink', which was resulting in empty lists to be returned for the link variable. This issue is now fixed. 
 
