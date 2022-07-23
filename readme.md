@@ -11,7 +11,11 @@ Started on June 09, 2022.
 @mttwdevelops
 
 ## July 22, 2022
-I wrapped up the machine learning section and finished the ZtM course, the files for the ML practice can be found [here](https://github.com/mttwdevelops/Practice-Files/tree/master/MachineLearningPractice). I am also starting the SQL course now, I'm thinking it'll take a week or two to finish completely.
+Job update: I didn't get the job I interviewed for and mentioned previously, but I'm not upset or stressing about it. It wasn't purely data science or analytics so it would have been a nice paying stepping stone but oh well.
+
+I wrapped up the machine learning section and finished the ZtM course, the files for the ML practice can be found [here](https://github.com/mttwdevelops/Practice-Files/tree/master/MachineLearningPractice). I am also starting the SQL course now; I'm thinking it'll take a week or two to finish completely.
+
+At this point, I'm going to continue working on machine learning and with the tools mentioned before. I also started watching [Ken Jee's YouTube](https://www.youtube.com/c/KenJee1), and started with [this video](https://www.youtube.com/watch?v=I3FBJdiExcg). The whole project is based off of [Kaggle's Titanic competition](https://www.kaggle.com/competitions/titanic), and I'll keep looking over different submissions' code to see what they're doing through what cleaning processes and tools they are using, along with their statistical and analytical methodology. 
 
 ## July 21, 2022
 I finished and uploaded a regression analysis project in R, which can be found [here](https://github.com/mttwdevelops/Regression-Analysis-Boston-Historic-Housing-Prices). This focuses on data collected from Boston neighborhoods in 1970, and while the [original paper](https://www.researchgate.net/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air) the data was used for measured median home values based off of air quality, I focused on what specific variables are signficant in the data and built a forward regression model. I also updated my resume, deleting the actuarial exam portion and focusing more on work experience and projects, like the regression model I just uploaded. More goodies to come!
