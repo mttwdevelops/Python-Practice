@@ -10,6 +10,13 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 25, 2022
+I started today off by picking more online seminars and talks to attend, all of them on breaking into tech and AI related things. 
+
+I also completed day 25 of the 100 projects course, which can be found here.
+
+Then, I completed sections one through three of the SQL course, which covered the basics of the theory and terminology. Some important notes include:
+
 ## July 22, 2022
 Job update: I didn't get the job I interviewed for and mentioned previously, but I'm not upset or stressing about it. It wasn't purely data science or analytics so it would have been a nice paying stepping stone but oh well.
 
