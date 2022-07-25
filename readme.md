@@ -13,7 +13,7 @@ Started on June 09, 2022.
 ## July 25, 2022
 I started today off by picking more online seminars and talks to attend, all of them on breaking into tech and AI related things. 
 
-I also completed day 25 of the 100 projects course, which can be found here.
+I also completed day 25 of the 100 projects course, practice for pandas is [here](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/Day_25_Pandas_Practice), but the project itself is [here](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/us-states-game-start).
 
 Then, I completed sections one through three of the SQL course, which covered the basics of the theory and terminology. Some important notes include:
 
