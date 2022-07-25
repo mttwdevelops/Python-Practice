@@ -1,7 +1,7 @@
 Purpose of this repo is to upload different test files created as I learn Python and other languages. I also keep a daily log (on days I do something) here and will track any further progress on both learning and towards getting a job.
 
 Task List:
-- [X] Complete Python Developer in 2022: Zero to Mastery
+- [X] [July 22] Complete Python Developer in 2022: Zero to Mastery
 - [ ] 100 Days of Python Projects
 - [ ] SQL - MySQL for Data Analytics and Business
 - [ ] Tableau 2020 A-Z
