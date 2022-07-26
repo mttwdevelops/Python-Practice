@@ -13,11 +13,11 @@ Started on June 09, 2022.
 ## July 26, 2022
 Today's focus is on deepwork, or getting things done rather than worrying about getting them done while constantly looking at the clock. I removed the clocks in my room and computer and turned my phones off to help focus. I'll updated this entry with how it goes. 
 
-The project course has many days that focus on GUIs and non-data science related tasks, all of which are important at building Python and other library skills, but not what I should be focusing on. In light of that, I'm going from finishing day 25 and going straight for day 45, which focuses on BeautifulSoup, which I experimented before from the ZtM course, found [here](https://github.com/mttwdevelops/Practice-Files/blob/master/Scape.py) or on July 19th's entry.
+The project course has many days that focus on GUIs and non-data science related tasks, all of which are important at building Python and other library skills, but not what I should be focusing on. In light of that, I'm going from finishing day 25 and going straight for day 45, which focuses on BeautifulSoup, which I experimented before from the ZtM course, found [here](https://github.com/mttwdevelops/Practice-Files/blob/master/Scape.py) or on July 19th's entry. Today's practice files can be found [here](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/Day_26_BeautifulSoup_Practice), and the project for today is scraping a movie list and printing and outputing it in a new file. It can be found [here](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/Day_26_BeautifulSoup_Practice/MoviesProject).
 
 I also worked on the SQL course, finishing sections four and five. This means I've installed MySQL, and created my first database.
 
-In addition to this, I also began reading [this book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), which Ken Jee recommends and builds off of what I learned so far. I want to learn more about Scikit-Learn and get into the "TensorFlow" that seems pretty hot in the machine learning community. "Neural nets" seem pretty cool too, let's see where this goes.
+In addition to this, I also began reading and finished chapter one of [this book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), which Ken Jee recommends and builds off of what I learned so far. I want to learn more about Scikit-Learn and get into the "TensorFlow" that seems pretty hot in the machine learning community. "Neural nets" seem pretty cool too, let's see where this goes.
 
 ## July 25, 2022
 I started today off by picking more online seminars and talks to attend, all of them on breaking into tech and AI related things. 
