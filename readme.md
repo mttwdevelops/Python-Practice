@@ -16,6 +16,10 @@ I started today off by picking more online seminars and talks to attend, all of 
 I also completed day 25 of the 100 projects course, practice for pandas is [here](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/Day_25_Pandas_Practice), but the project itself is [here](https://github.com/mttwdevelops/100-Days-of-Code/tree/master/us-states-game-start).
 
 Then, I completed sections one through three of the SQL course, which covered the basics of the theory and terminology. Some important notes include:
+- Databases should be relational, or use "relationship algebra" to separate large volumes of data into more efficient queries for users.
+- Primary keys is a column or a set of columns that are unique identifiers in a table they cannot contain null or missing values
+- Foreign keys are used to identify relationships between tables
+- Unique keys are similar to primary keys in the sense that they have unique values, but can contain null or missing values
 
 ## July 22, 2022
 Job update: I didn't get the job I interviewed for and mentioned previously, but I'm not upset or stressing about it. It wasn't purely data science or analytics so it would have been a nice paying stepping stone but oh well.
