@@ -13,6 +13,15 @@ Started on June 09, 2022.
 ## July 28, 2022
 I spent today's morning continuing on chapter two, which is an example of the housing market in California and using data to build regression models. This uses Jupyter notebooks, numpy, pandas, scikit-learn, and all the hot words that employers look for. I've done practice with them in other courses and it's not so bad so far, but the author does gloss over much more complex functions he writes. I can decipher them when given some time, and I'm not stressed since I just started learning about these concepts less than a month ago.
 
+I also completed sections six and seven of the SQL course, which focused on the different types of constraints that columns can have along with good coding practices in professional environments. The practice file can be found [here](https://github.com/mttwdevelops/SQL_Course/blob/main/Section_6_July282022.sql).
+
+These constraints include:
+1. **primary keys** contain unique and non-null values. Tables can only have one primary key, but can be multiple columns.
+2. **foreign keys** are used to link two tables together in a database.
+3. **unique keys** can be null but all values must be different.
+4. **default constraint** sets default values for columns.
+5. **not null constriant** ensures that a column cannot have values that are null.
+
 ## July 27, 2022
 I had to take today off due to some health issues, but I began continuing reading the book I mentioned in my last entry. I finished chapter one, which discussed different topics in machine learning and the broader picture of how the different packages/tools fit together for deliverable reports and applicable business decisions. The notebook will be uploaded when completed, but for now its repository can be found [here](https://github.com/mttwdevelops/Regression_Analysis_California_Market_Python).
 
