@@ -10,6 +10,12 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 28, 2022
+I spent today's morning continuing on chapter two, which is an example of the housing market in California and using data to build regression models. This uses Jupyter notebooks, numpy, pandas, scikit-learn, and all the hot words that employers look for. I've done practice with them in other courses and it's not so bad so far, but the author does gloss over much more complex functions he writes. I can decipher them when given some time, and I'm not stressed since I just started learning about these concepts less than a month ago.
+
+## July 27, 2022
+I had to take today off due to some health issues, but I began continuing reading the book I mentioned in my last entry. I finished chapter one, which discussed different topics in machine learning and the broader picture of how the different packages/tools fit together for deliverable reports and applicable business decisions. The notebook will be uploaded when completed, but for now its repository can be found [here](https://github.com/mttwdevelops/Regression_Analysis_California_Market_Python).
+
 ## July 26, 2022
 Today's focus is on deepwork, or getting things done rather than worrying about getting them done while constantly looking at the clock. I removed the clocks in my room and computer and turned my phones off to help focus. I'll updated this entry with how it goes. 
 
