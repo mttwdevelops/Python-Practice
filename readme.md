@@ -13,6 +13,13 @@ Started on June 09, 2022.
 ## July 28, 2022
 I spent today's morning continuing on chapter two, which is an example of the housing market in California and using data to build regression models. This uses Jupyter notebooks, numpy, pandas, scikit-learn, and all the hot words that employers look for. I've done practice with them in other courses and it's not so bad so far, but the author does gloss over much more complex functions he writes. I can decipher them when given some time, and I'm not stressed since I just started learning about these concepts less than a month ago.
 
+So far, in the notebook, I've:
+1. Pulled the data from the github repository via **urllib, tarfile, and os**
+2. Used **pandas** to read the data in and look at the different aspects such as non-null values and basic statistics
+3. **Matplotlib** to plot the different variables as historgrams, along with home pricing heat maps
+4. Imported **numpy** to split the data into training and testing sets
+5. **Scikit-learn** to perform stratified sampling on variables
+
 I also completed sections six and seven of the SQL course, which focused on the different types of constraints that columns can have along with good coding practices in professional environments. The practice file can be found [here](https://github.com/mttwdevelops/SQL_Course/blob/main/Section_6_July282022.sql).
 
 These constraints include:
