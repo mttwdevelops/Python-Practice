@@ -10,6 +10,9 @@ Started on June 09, 2022.
 
 @mttwdevelops
 
+## July 29, 2022
+Testing from new machine
+
 ## July 28, 2022
 I spent today's morning continuing on chapter two, which is an example of the housing market in California and using data to build regression models. This uses Jupyter notebooks, numpy, pandas, scikit-learn, and all the hot words that employers look for. I've done practice with them in other courses and it's not so bad so far, but the author does gloss over much more complex functions he writes. I can decipher them when given some time, and I'm not stressed since I just started learning about these concepts less than a month ago.
 
