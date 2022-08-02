@@ -9,6 +9,13 @@ Task List:
 Started on June 09, 2022.
 
 @mttwdevelops
+## August 2, 2022
+I spent the morning brainstorming and looking around to seeing what datasets I can work with, rather than what projects others have done that I can emulate.
+
+## August 1, 2022
+I perhaps got the most important thing I could have, a mentor. He currently has me starting to draft up much more meaningful projects than the previous analysis or other practice files, which are fine for the fundamentals, but feel like toiling around compraed to his idea of much more deeper and creative deliverables. More to come.
+
+I also realized that I deleted my notebook when transferring my data between desktop environments. That's fine.
 
 ## July 29, 2022
 Today I set up VSCode, along with the rest of my professional work on a new laptop (or really more on a new coat of Debian). I added a bit more and knocked out most of chapter two and will be uploading the notebook shortly, most likely on Monday or Tuesday.
