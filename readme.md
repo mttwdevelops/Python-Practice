@@ -9,15 +9,18 @@ Task List:
 Started on June 09, 2022.
 
 @mttwdevelops
-## August 2, 2022
-I spent the morning brainstorming and looking around to seeing what datasets I can work with, rather than what projects others have done that I can emulate.
+## August 3, 2022
+I fixed up my proposal to my mentor along with finally setting up my SQL workbench in a Windows VM, so all is good now. I chipped away at the SQL course, finishing about half of the next section, along with attending a machine learning and AI talk. It helped cover basic tools but was also a plug for the presenter's courses. I think I'll stick with my current courses and mentor for now.
 
-*TESTING CONNECTION*
+## August 2, 2022
+I spent the morning brainstorming and looking around to seeing what datasets I can work with, rather than what projects others have done that I can emulate. I figure that I'll pitch some project ideas and see what sticks and what doesn't. I'm thinking I'll also get in touch with some cybersecurity folks and see what I can learn from them, as I want to branch in that development as well on top of data science. 
+
+I'm trying to set up SQL workbench with Debian, but that's not looking like it's gonna happen. Time to pull out the virtual-machine-manager-gun (QEMU/KVM running Windows 10).
 
 ## August 1, 2022
 I perhaps got the most important thing I could have, a mentor. He currently has me starting to draft up much more meaningful projects than the previous analysis or other practice files, which are fine for the fundamentals, but feel like toiling around compraed to his idea of much more deeper and creative deliverables. More to come.
 
-I also realized that I deleted my notebook when transferring my data between desktop environments. That's fine.
+I also realized that I deleted my notebook when transferring my data between desktop environments. That's fine, I forked the master repository from the author of the book so I will continue following along.
 
 ## July 29, 2022
 Today I set up VSCode, along with the rest of my professional work on a new laptop (or really more on a new coat of Debian). I added a bit more and knocked out most of chapter two and will be uploading the notebook shortly, most likely on Monday or Tuesday.
