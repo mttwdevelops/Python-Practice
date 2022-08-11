@@ -2,27 +2,44 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
+search_term = input("What product are you looking for? ")
+url = f"https://www.newegg.com/p/pl?d={search_term}&n=4841"
 
-
-url = f"https://coinmarketcap.com/" # CHANGE URL
 result = requests.get(url).text
 doc = BeautifulSoup(result, "html.parser")
 
-# first thing is that I want to establish connection to newegg
-#       find url to search tab by prompting user for specific item
-# 
-# second is to figure out how to extract item name, relevant info
-# 
-# third is to figure out how to get all items of pages (look for classes, need to convert types)
-# 
-# fourth is to create a dictionary for our items
+# checks num of pages if need to scrape any further
+page_num = str(doc.find(class_="list-tool-pagination-text").strong)
+total_num_pages = int(page_num.split(">")[3][0])
 
-# fifth is to check all pages in range + 1 (since not starting at 0)
-#   for different pages, need to run url, result, doc again
-#   get next class / div that we can use for re.complile(search_term)
+items_dict = {}
 
-# then we iterate through items to get links, prices, create dictionary in dictionary for for item specifics
+for page in range(1, total_num_pages + 1):
+    url = f"https://www.newegg.com/p/pl?d=3070&n=4841&page={page}"
+    page = requests.get(url).text
+    doc = BeautifulSoup(page, "html.parser")
 
-# sort list
+    div = doc.find(class_="item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell")
+    items = div.find_all(text = re.compile(search_term))
+    for item in items:
+        parent = item.parent
+        if parent.name != "a":
+            continue
+        link = parent["href"]
+        next_parent = item.find_parent(class_ = "item-container")
 
-# print item dictioanry in order
+        try:
+            price = next_parent.find(class_ = "price-current").find("strong").string
+            items_dict[item] = {"price" : int(price.replace(",", "")), "link": link}
+
+        except:
+            pass
+
+# sort dict
+sorted_items_dict = sorted(items_dict.items(), key=lambda x: (x[1]['price']))
+
+for item in sorted_items_dict:
+    print(item[0])
+    print(f"${item[1]['price']}")
+    print(f"{item[1]['link']}")
+    print("------------------------")
