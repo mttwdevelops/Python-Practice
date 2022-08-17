@@ -1,0 +1,354 @@
+,Entity,Year,Records,Organization type,Method
+0,21st Century Oncology,2004,2200000.0,healthcare,hacked
+1,500px,2004,14870304.0,social networking,hacked
+2,Accendo Insurance Co.,2005,175350.0,healthcare,poor security
+3,Adobe Systems Incorporated,2005,152000000.0,tech,hacked
+4,Adobe Inc.,2005,7500000.0,tech,poor security
+5,Advocate Medical Group,2005,4000000.0,healthcare,lost / stolen media
+6,AerServ (subsidiary of InMobi),2005,75000.0,advertising,hacked
+7,"Affinity Health Plan, Inc.",2005,344579.0,healthcare,lost / stolen media
+8,Airtel,2006,320000000.0,telecommunications,poor security
+9,Air Canada,2006,20000.0,transport,hacked
+10,Amazon Japan G.K.,2006,,web,accidentally published
+11,TD Ameritrade,2006,200000.0,financial,lost / stolen media
+12,Ancestry.com,2006,300000.0,web,poor security
+13,Animal Jam,2006,46000000.0,gaming,hacked
+14,"Ankle & Foot Center of Tampa Bay, Inc.",2006,156000.0,healthcare,hacked
+15,Anthem Inc.,2007,80000000.0,healthcare,hacked
+16,AOL,2007,92000000.0,web,"inside job, hacked"
+17,AOL,2007,20000000.0,web,accidentally published
+18,AOL,2007,2400000.0,web,hacked
+19,"Apple, Inc./BlueToad",2007,12367232.0,"tech, retail",accidentally published
+20,Apple,2007,275000.0,tech,hacked
+21,Apple Health Medicaid,2007,91000.0,healthcare,poor security
+22,Ashley Madison,2007,32000000.0,web,hacked
+23,AT&T,2007,113000.0,telecoms,lost / stolen computer
+24,AT&T,2007,114000.0,telecoms,hacked
+25,Atraf,2007,,dating,hacked
+26,Auction.co.kr,2007,18000000.0,web,hacked
+27,Australian Immigration Department,2008,,government,accidentally published
+28,Australian National University,2008,,academic,hacked
+29,Automatic Data Processing,2008,125000.0,financial,poor security
+30,"AvMed, Inc.",2008,1220000.0,healthcare,lost / stolen computer
+31,Bailey's Inc.,2008,250000.0,retail,hacked
+32,The Bank of New York Mellon,2008,12500000.0,financial,lost / stolen media
+33,Bank of America,2008,1200000.0,financial,lost / stolen media
+34,Barnes & Noble,2008,,retail,hacked
+35,Bell Canada,2008,1900000.0,telecoms,poor security
+36,Bell Canada,2008,100000.0,telecoms,hacked
+37,Benesse,2008,35040000.0,educational services,hacked
+38,Betfair,2008,2300000.0,web,hacked
+39,Bethesda Game Studios,2008,200000.0,gaming,hacked
+40,Bethesda Game Studios,2008,,gaming,accidentally published
+41,Betsson Group,2008,,gambling,unknown
+42,Blank Media Games,2008,7633234.0,gaming,hacked
+43,Blizzard Entertainment,2009,14000000.0,gaming,hacked
+44,BlueCross BlueShield of Tennessee,2009,1023209.0,healthcare,lost / stolen media
+45,BMO and Simplii,2009,90000.0,banking,poor security
+46,2018 British Airways cyberattack,2009,500000.0,transport,hacked
+47,British Airways,2009,,retail,hacked
+48,2019 Bulgarian revenue agency hack,2009,,government,hacked
+49,California Department of Child Support Services,2009,800000.0,government,lost / stolen media
+50,Canva,2009,140000000.0,web,hacked
+51,Capcom,2009,350000.0,game,hacked
+52,Capital One,2009,106000000.0,financial,unsecured S3 bucket
+53,"CardSystems Solutions Inc. (MasterCard, Visa, Discover Financial Services and American Express)",2009,40000000.0,financial,hacked
+54,Cathay Pacific Airways,2009,9400000.0,transport,hacked
+55,CareFirst BlueCross Blue Shield - Maryland,2009,1100000.0,healthcare,hacked
+56,Central Coast Credit Union,2010,60000.0,financial,hacked
+57,Central Hudson Gas & Electric,2010,110000.0,energy,hacked
+58,CheckFree Corporation,2010,5000000.0,financial,hacked
+59,CheckPeople,2010,56000000.0,background check,unknown
+60,China Software Developer Network,2010,6000000.0,web,hacked
+61,"Chinese gaming websites (three: Duowan, 7K7K, 178.com)",2010,10000000.0,web,hacked
+62,Citigroup,2010,3900000.0,financial,lost / stolen media
+63,Citigroup,2010,360083.0,financial,hacked
+64,Citigroup,2010,150000.0,financial,poor security
+65,City and Hackney Teaching Primary Care Trust,2010,160000.0,healthcare,lost / stolen media
+66,Clearview AI,2010,,information technology,hacked
+67,Colorado government,2010,105470.0,healthcare,lost / stolen computer
+68,Community Health Systems,2010,4500000.0,healthcare,hacked
+69,Philippines Commission on Elections,2010,55000000.0,government,hacked
+70,Compass Bank,2010,1000000.0,financial,inside job
+71,Countrywide Financial Corp,2010,2600000.0,financial,inside job
+72,Countrywide Financial Corp,2010,2500000.0,financial,inside job
+73,Centers for Medicare & Medicaid Services,2010,75000.0,healthcare,hacked
+74,Cox Communications,2010,40000.0,telecoms,hacked
+75,"Crescent Health Inc., Walgreens",2011,100000.0,healthcare,lost / stolen computer
+76,CVS,2011,,retail,hacked
+77,CyberServe,2011,1107034.0,hosting provider,hacked
+78,Dai Nippon Printing,2011,8637405.0,retail,inside job
+79,"Data Processors International (MasterCard, Visa, Discover Financial Services and American Express)",2011,8000000.0,financial,hacked
+80,Defense Integrated Data Center (South Korea),2011,,military,hacked
+81,Dedalus,2011,500000.0,health,poor security
+82,Deloitte,2011,,"consulting, accounting",poor security
+83,Democratic National Committee,2011,19252.0,political,
+84,US Department of Homeland Security,2011,30000.0,government,poor security
+85,Desjardins,2011,9700000.0,financial,inside job
+86,Domino's Pizza (France),2011,600000.0,web,hacked
+87,DoorDash,2011,4900000.0,web,hacked
+88,UK Driving Standards Agency,2011,3000000.0,government,lost / stolen media
+89,Dropbox,2011,68648009.0,web,hacked
+90,Drupal,2011,1000000.0,web,hacked
+91,DSW Inc.,2011,1400000.0,retail,hacked
+92,Dubsmash,2011,162000000.0,messaging app,hacked
+93,Dun & Bradstreet,2011,1000000.0,tech,hacked
+94,EasyJet,2011,,transport,hacked
+95,eBay,2011,145000000.0,web,hacked
+96,"Earl Enterprises(Buca di Beppo, Earl of Sandwich, Planet Hollywood,Chicken Guy, Mixology, Tequila Taqueria)",2011,2000000.0,restaurant,hacked
+97,Educational Credit Management Corporation,2011,3300000.0,financial,lost / stolen media
+98,Eisenhower Medical Center,2011,514330.0,healthcare,lost / stolen computer
+99,ElasticSearch,2011,108000000.0,tech,poor security
+100,Embassy Cables,2011,251000.0,government,inside job
+101,"Emergency Healthcare Physicians, Ltd.",2011,180111.0,healthcare,lost / stolen media
+102,Emory Healthcare,2011,315000.0,healthcare,poor security
+103,Equifax,2011,163119000.0,"financial, credit reporting",poor security
+104,European Central Bank,2011,,financial,hacked
+105,Evernote,2011,50000000.0,web,hacked
+106,Exactis,2011,340000000.0,data broker,poor security
+107,Excellus BlueCross BlueShield,2011,10000000.0,healthcare,hacked
+108,Experian - T-Mobile US,2011,15000000.0,telecoms,hacked
+109,EyeWire,2012,,tech,lost / stolen computer
+110,Facebook,2012,6000000.0,social network,accidentally published
+111,Facebook,2012,50000000.0,social network,poor security
+112,Facebook,2012,540000000.0,social network,poor security
+113,Facebook,2012,1500000.0,social network,accidentally uploaded
+114,Facebook,2012,267000000.0,social network,poor security
+115,Fast Retailing,2012,461091.0,retail,hacked
+116,Federal Reserve Bank of Cleveland,2012,400000.0,financial,hacked
+117,Fidelity National Information Services,2012,8500000.0,financial,inside job
+118,First American Corporation,2012,885000000.0,financial service company,poor security
+119,FireEye,2012,,Information Security,hacked
+120,Florida Department of Juvenile Justice,2012,100000.0,government,lost / stolen computer
+121,Friend Finder Networks,2012,412214295.0,web,poor security / hacked
+122,Funimation,2012,2500000.0,web,hacked
+123,Formspring,2012,420000.0,web,accidentally published
+124,Unknown,2012,201000000.0,personal and demographic data about residents and their properties of US,Poor security
+125,Gamigo,2012,8000000.0,web,hacked
+126,Gap Inc.,2012,800000.0,retail,lost / stolen computer
+127,Gawker,2012,1500000.0,web,hacked
+128,Global Payments,2012,7000000.0,financial,hacked
+129,Gmail,2012,5000000.0,web,hacked
+130,Google Plus,2012,500000.0,social network,poor security
+131,Greek government,2012,9000000.0,government,hacked
+132,Grozio Chirurgija,2013,25000.0,healthcare,hacked
+133,GS Caltex,2013,11100000.0,energy,inside job
+134,Gyft,2013,,web,hacked
+135,Hannaford Brothers Supermarket Chain,2013,4200000.0,retail,hacked
+136,HauteLook,2013,28517244.0,retail,hacked
+137,Health Net,2013,500000.0,healthcare,lost / stolen media
+138,Health Net — IBM,2013,1900000.0,healthcare,lost / stolen media
+139,Health Sciences Authority (Singapore),2013,808000.0,healthcare,poor security
+140,Health Service Executive,2013,,healthcare,unknown
+141,Heartland,2013,130000000.0,financial,hacked
+142,Heathrow Airport,2013,,transport,lost / stolen media
+143,Hewlett Packard,2013,200000.0,"tech, retail",lost / stolen media
+144,Hilton Hotels,2013,363000.0,hotel,hacked
+145,Home Depot,2013,56000000.0,retail,hacked
+146,Honda Canada,2013,283000.0,retail,poor security
+147,Hyatt Hotels,2013,,hotel,hacked
+148,Iberdrola,2013,1300000.0,energy,poor security
+149,Instagram,2013,200000000.0,social network,poor security
+150,Internal Revenue Service,2013,720000.0,financial,hacked
+151,International Committee of the Red Cross,2013,515000.0,humanitarian,unknown
+152,Inuvik hospital,2013,6700.0,healthcare,inside job
+153,"Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",2013,3000000.0,financial,hacked
+154,Japan Pension Service,2013,1250000.0,special public corporation,hacked
+155,Japanet Takata,2013,510000.0,shopping,inside job
+156,"Jefferson County, West Virginia",2013,1600000.0,government,accidentally published
+157,JP Morgan Chase,2013,2600000.0,financial,lost / stolen media
+158,JP Morgan Chase,2013,76000000.0,financial,hacked
+159,Justdial,2013,100000000.0,local search,unprotected api
+160,KDDI,2014,4000000.0,telecoms,hacked
+161,Kirkwood Community College,2014,125000.0,academic,hacked
+162,KM.RU,2014,1500000.0,web,hacked
+163,Koodo Mobile,2014,,mobile carrier,hacked
+164,Korea Credit Bureau,2014,20000000.0,financial,inside job
+165,Kroll Background America,2014,1000000.0,tech,hacked
+166,KT Corporation,2014,8700000.0,telecoms,hacked
+167,LexisNexis,2014,1000000.0,tech,hacked
+168,"Landry's, Inc.",2014,,restaurant,hacked
+169,Les Éditions Protégez-vous,2014,380000.0,publisher (magazine),unknown
+170,LifeLabs,2014,15000000.0,healthcare,hacked
+171,Lincoln Medical & Mental Health Center,2014,130495.0,healthcare,lost / stolen media
+172,"LinkedIn, eHarmony, Last.fm",2014,8000000.0,web,accidentally published
+173,Living Social,2014,50000000.0,web,hacked
+174,MacRumors.com,2014,860000.0,web,hacked
+175,Mandarin Oriental Hotels,2014,,hotel,hacked
+176,Marriott International,2014,500000000.0,hotel,hacked
+177,Marriott International,2014,5200000.0,hotel,poor security/inside job
+178,Massachusetts Government,2014,210000.0,government,poor security
+179,Massive American business hack including 7-Eleven and Nasdaq,2014,160000000.0,financial,hacked
+180,US Medicaid,2014,780000.0,"government, healthcare",hacked
+181,Medical Informatics Engineering,2014,3900000.0,healthcare,hacked
+182,Memorial Healthcare System,2014,102153.0,healthcare,lost / stolen media
+183,Michaels,2014,3000000.0,retail,hacked
+184,Microsoft,2014,250000000.0,tech,data exposed by misconfiguration
+185,Microsoft Exchange servers,2014 and 2015,,software,zero-day vulnerabilities
+186,Militarysingles.com,2015,163792.0,"web, military",accidentally published
+187,Ministry of Education (Chile),2015,6000000.0,government,accidentally published
+188,Ministry of Health (Singapore),2015,14200.0,healthcare,poor security/inside job
+189,Mitsubishi Tokyo UFJ Bank,2015,960000.0,financial,intentionally lost
+190,MongoDB,2015,202000000.0,tech,poor security
+191,MongoDB,2015,275000000.0,tech,poor security
+192,Mobile TeleSystems (MTS),2015,100000000.0,telecommunications,misconfiguration/poor security
+193,Monster.com,2015,1600000.0,web,hacked
+194,Morgan Stanley Smith Barney,2015,34000.0,financial,lost / stolen media
+195,Morinaga Confectionery,2015,1648922.0,online shopping,ransomware hacked
+196,Mozilla,2015,76000.0,web,poor security
+197,MyHeritage,2015,92283889.0,genealogy,unknown
+198,NASDAQ,2015,,financial,hacked
+199,Natural Grocers,2015,,retail,hacked
+200,"NEC Networks, LLC",2015,1600000.0,healthcare,hacked
+201,Neiman Marcus,2015,1100000.0,retail,hacked
+202,Nemours Foundation,2015,1055489.0,healthcare,lost / stolen media
+203,Network Solutions,2015,573000.0,tech,hacked
+204,New York City Health & Hospitals Corp.,2015,1700000.0,healthcare,lost / stolen media
+205,New York State Electric & Gas,2015,1800000.0,energy,inside job
+206,New York Taxis,2015,52000.0,transport,poor security
+207,Nexon Korea Corp,2015,13200000.0,web,hacked
+208,NHS,2015,8300000.0,healthcare,lost / stolen media
+209,Nintendo (Club Nintendo),2015,240000.0,gaming,hacked
+210,Nintendo (Nintendo Account),2015,160000.0,gaming,hacked
+211,Nippon Television,2015,430000.0,media,hacked
+212,Nival Networks,2015,1500000.0,gaming,hacked
+213,Norwegian Tax Administration,2015,3950000.0,government,accidentally published
+214,Now:Pensions,2016,30000.0,financial,rogue contractor
+215,Ofcom,2016,,telecom,inside job
+216,US Office of Personnel Management,2016,21500000.0,government,hacked
+217,Office of the Texas Attorney General,2016,6500000.0,government,accidentally published
+218,Ohio State University,2016,760000.0,academic,hacked
+219,Orbitz,2016,880000.0,web,hacked
+220,Oregon Department of Transportation,2016,,government,poor security
+221,OVH,2016,,web,hacked
+222,Patreon,2016,2300000.0,web,hacked
+223,PayPay,2016,20076016.0,QR code payment,"improper setting, hacked"
+224,Popsugar,2016,123857.0,fashion,hacked
+225,Premera,2016,11000000.0,healthcare,hacked
+226,Puerto Rico Department of Health,2016,515000.0,healthcare,hacked
+227,Quest Diagnostics,2016,11900000.0,Clinical Laboratory,poor security
+228,Quora,2016,100000000.0,Question & Answer,hacked
+229,Rakuten,2016,1381735.0,web,"improper setting, hacked"
+230,Rambler.ru,2016,98167935.0,web,hacked
+231,RBS Worldpay,2016,1500000.0,financial,hacked
+232,Reddit,2016,,web,hacked
+233,Restaurant Depot,2016,200000.0,retail,hacked
+234,RockYou!,2016,32000000.0,"web, gaming",hacked
+235,Rosen Hotels,2016,,hotel,hacked
+236,"Sakai City, Japan",2017,680000.0,government,inside job
+237,San Francisco Public Utilities Commission,2017,180000.0,government,hacked
+238,Scottrade,2017,4600000.0,financial,hacked
+239,Scribd,2017,500000.0,web,hacked
+240,"Seacoast Radiology, PA",2017,231400.0,healthcare,hacked
+241,Sega,2017,1290755.0,gaming,hacked
+242,Service Personnel and Veterans Agency (UK),2017,50500.0,government,lost / stolen media
+243,ShopBack,2017,,tech,hacked
+244,SingHealth,2017,1500000.0,"government, database",hacked
+245,Slack,2018,500000.0,tech,poor security
+246,SlickWraps,2018,377428.0,phone accessories,poor security
+247,SnapChat,2018,4700000.0,"web, tech",hacked
+248,Solarwinds,2018,,Network Monitoring,hacked
+249,Sony Online Entertainment,2018,24600000.0,gaming,hacked
+250,Sony Pictures,2018,1000000.0,web,hacked
+251,Sony Pictures,2018,,media,hacked
+252,Sony PlayStation Network,2018,77000000.0,gaming,hacked
+253,South Africa police,2018,16000.0,government,hacked
+254,Twitter,2018,5400000.0,tech,hacked
+255,South Carolina Government,2018,6400000.0,healthcare,inside job
+256,"South Shore Hospital, Massachusetts",2018,800000.0,healthcare,lost / stolen media
+257,Southern California Medical-Legal Consultants,2018,300000.0,healthcare,hacked
+258,Spartanburg Regional Healthcare System,2018,400000.0,healthcare,lost / stolen computer
+259,Stanford University,2018,72000.0,academic,lost / stolen computer
+260,Starbucks,2018,97000.0,retail,lost / stolen computer
+261,Starwoodincluding Westin Hotels & Resorts and Sheraton Hotels and Resorts,2018,,hotel,hacked
+262,State of Texas,2018,3500000.0,government,accidentally published
+263,Steam,2018,35000000.0,web,hacked
+264,StockX,2018,6800000.0,retail,hacked
+265,Stratfor,2018,935000.0,military,accidentally published
+266,Supervalu,2018,,retail,hacked
+267,Sutter Medical Center,2018,4243434.0,healthcare,lost / stolen computer
+268,Syrian government (Syria Files),2018,2434899.0,government,hacked
+269,Taobao,2018,20000000.0,retail,hacked
+270,Taringa!,2018,28722877.0,web,hacked
+271,Target Corporation,2018-2019,110000000.0,retail,hacked
+272,TaxSlayer.com,2019,8800.0,web,hacked
+273,TD Ameritrade,2019,6300000.0,financial,hacked
+274,TD Bank,2019,260000.0,financial,hacked
+275,TerraCom & YourTel,2019,170000.0,telecoms,accidentally published
+276,Tetrad,2019,120000000.0,market analysis,poor security
+277,Texas Lottery,2019,89000.0,government,inside job
+278,Ticketfly (subsidiary of Eventbrite),2019,26151608.0,ticket distribution,hacked
+279,Tianya Club,2019,28000000.0,web,hacked
+280,TikTok,2019,42000000.0,social media,poor security
+281,TK / TJ Maxx,2019,94000000.0,retail,hacked
+282,"T-Mobile, Deutsche Telekom",2019,17000000.0,telecoms,lost / stolen media
+283,T-Mobile,2019,45000000.0,telecom,hacked
+284,Tricare,2019,4901432.0,"military, healthcare",lost / stolen computer
+285,"Triple-S Salud, Inc.",2019,398000.0,healthcare,lost / stolen media
+286,Truecaller,2019,299055000.0,Telephone directory,unknown
+287,Trump Hotels,2019,,hotel,hacked
+288,Tumblr,2019,65469298.0,web,hacked
+289,Twitch,2019,,tech,hacked
+290,Twitch,2019,,tech,hacked/misconfiguration
+291,Twitter,2019,250000.0,web,hacked
+292,Typeform,2019,,tech,poor security
+293,Uber,2019,50000.0,tech,poor security
+294,Uber,2019,57000000.0,transport,hacked
+295,Ubisoft,2019,,gaming,hacked
+296,Ubuntu,2019,2000000.0,tech,hacked
+297,"UCLA Medical Center, Santa Monica",2019,4500000.0,healthcare,hacked
+298,UK Home Office,2019,84000.0,government,lost / stolen media
+299,UK Ministry of Defence,2019,1700000.0,government,lost / stolen media
+300,UK Revenue & Customs,2019,25000000.0,government,lost / stolen media
+301,Universiti Teknologi MARA,2019,1164540.0,academic,hacked
+302,Under Armour,2019-2020,150000000.0,Consumer Goods,hacked
+303,"University of California, Berkeley",2020,160000.0,academic,hacked
+304,"University of California, Berkeley",2020,80000.0,academic,hacked
+305,"University of Maryland, College Park",2020,300000.0,academic,hacked
+306,University of Central Florida,2020,63000.0,academic,hacked
+307,University of Miami,2020,2100000.0,academic,lost / stolen computer
+308,University of Utah Hospital & Clinics,2020,2200000.0,academic,lost / stolen media
+309,University of Wisconsin–Milwaukee,2020,73000.0,academic,hacked
+310,United States Postal Service,2020,60000000.0,government,poor security
+311,UPS,2020,,retail,hacked
+312,U.S. Army,2020,50000.0,military,accidentally published
+313,U.S. Army(classified Iraq War documents),2020,392000.0,government,inside job
+314,U.S. Department of Defense,2020,72000.0,military,lost / stolen media
+315,U.S. Department of Veteran Affairs,2020,26500000.0,"government, military",lost / stolen computer
+316,U.S. federal government (2020 United States federal government data breach),2020,,"government, military",hacked
+317,U.S. law enforcement (70 different agencies),2020,123461.0,government,accidentally published
+318,National Archives and Records Administration (U.S. military veterans records),2020,76000000.0,military,lost / stolen media
+319,U.S. government (United States diplomatic cables leak),2020,260000.0,military,inside job
+320,National Guard of the United States,2020,131000.0,military,lost / stolen computer
+321,Vastaamo,2020,130000.0,healthcare,hacked
+322,Verizon Communications,2020,1500000.0,telecoms,hacked
+323,View Media,2020,38000000.0,online marketing,publicly accessible Amazon Web Services (AWS) server
+324,Virgin Media,2020,900000.0,mobile carrier,accidentally exposed
+325,Virginia Department of Health,2020,8257378.0,"government, healthcare",hacked
+326,Virginia Prescription Monitoring Program,2020,531400.0,healthcare,hacked
+327,Vodafone,2020,2000000.0,telecoms,inside job
+328,VTech,2020,5000000.0,retail,hacked
+329,Walmart,2020,1300000.0,retail,hacked
+330,Washington Post,2020,1270000.0,media,hacked
+331,Washington State court system,2020,160000.0,government,hacked
+332,Wattpad,2020,270000000.0,web,hacked
+333,Wawa (company),2020,30000000.0,retail,hacked
+334,Weebly,2021,43430316.0,web,hacked
+335,Wendy's,2021,,restaurant,hacked
+336,Westpac,2021,98000.0,financial,hacked
+337,Woodruff Arts Center,2021,,arts group,poor security
+338,WordPress,2021,,web service,hacked
+339,Writerspace.com,2021,62000.0,web,hacked
+340,Xat.com,2021,6054459.0,web,social engineering
+341,Yahoo,2021,3000000000.0,web,hacked
+342,Yahoo,2021,500000000.0,web,hacked
+343,Yahoo Japan,2021,22000000.0,"tech, web",hacked
+344,Yahoo! Voices,2021,450000.0,web,hacked
+345,Yale University,2021,43000.0,academic,accidentally published
+346,YouTube,2021,4000000.0,social media,poor security
+347,Zappos,2022,24000000.0,web,hacked
+348,Zynga,2022,173000000.0,social network,hacked
+349,Unknown agency(believed to be tied to United States Census Bureau),2022,200000000.0,financial,accidentally published
+350,National Health Information Center (NCZI) of Slovakia,2022,391250.0,healthcare,poor security
+351,50 companies and government institutions,2022,6400000.0,various,poor security
+352,IKEA,2022,95000.0,retail,accidentally published
