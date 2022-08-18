@@ -14,10 +14,6 @@ It is important that I stress that one can *minimize* the ways that one can be h
 
 The scraper file is provided in the **Code and Resources Used** section, and can be run at any time before running this file to get an up-to-date listing of publically-published data breaches. 
 
-For any further questions on the data source's sources, refer to the provided **Data Source** link provided.
-
-For any further questions on the analysis, refer to the provided **Full Analysis Notebook** link provided.
-
 ## Code and Resources Used
 
 **Data Source**: https://en.wikipedia.org/wiki/List_of_data_breaches
@@ -38,8 +34,7 @@ add method and year photos
 
 ## Findings
 
-### Shopping for Handbags and Account Information
-
+For all findings, refer to the **Full Notebook**.
 
 ### The Inside Jobs
 
