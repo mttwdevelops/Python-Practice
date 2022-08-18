@@ -16,6 +16,8 @@ The scraper file is provided in the **Code and Resources Used** section, and can
 
 For any further questions on the data source's sources, refer to the provided **Data Source** link provided.
 
+For any further questions on the analysis, refer to the provided **db_analysis.ipynb** file provided.
+
 ## Code and Resources Used
 
 **Data Source**: https://en.wikipedia.org/wiki/List_of_data_breaches
@@ -24,11 +26,15 @@ For any further questions on the data source's sources, refer to the provided **
 
 **IDE and Language**: Visual Studio Code, Python Version 3.9.2
 
-**Full Code Walkthrough**: [NEED LINK HERE FOR .IPYNB]
+**Full Analysis Notebook**: [NEED LINK HERE FOR .IPYNB]
 
 ## Data Cleaning
 
-I imported the dataset, and removed the 'Unnamed' and 'Sources' columns, as the first is just a repeated index and the second does not include the links in the Pandas dataframe object. I then set the 'Records' column to be a numeric, eliminating non-numeric values. This also removed vague values such as "unknown," "tens of thousands," or "millions," although these entries are more uncommon.
+I imported the dataset, and removed the 'Unnamed' and 'Sources' columns, as the first is just a repeated index and the second does not include the links in the Pandas dataframe object. I then set the 'Records' column to be a numeric, eliminating non-numeric values. This also removed vague values such as "unknown," "tens of thousands," or "millions," although these entries are more uncommon. At this point, the data does not need to be touched-up much.
 
 ## Exploratory Data Analysis
+
+add method and year photos
+
+## Findings
 
